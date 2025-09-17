@@ -6,7 +6,7 @@ programa {
   }
   funcao cadeia classificarIMC (real imc, caracter genero) {
     se (genero == 'F' ou genero == 'f') 
-    se (imc < 19) {
+    se (imc < 15) {
       retorne "Abaixo do peso"
     se (imc <= 23.9)
       retorne "Peso normal"

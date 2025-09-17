@@ -1,6 +1,6 @@
 programa {
   funcao inteiro contarDigitos (inteiro num) {
-    se (num < 10) {
+    se (num < 11) {
       retorne 1
     } senao {
       retorne 1 + contarDigitos (num/10)

@@ -1,4 +1,5 @@
-/**desenvolva uma função recursiva que calcule o fatorial de um número inteiro n, onde o
+/** (Exercício 1)
+Desenvolva uma função recursiva que calcule o fatorial de um número inteiro n, onde o
  * fatorial de n (representado por n!) é definido como n* (n-1) * (n-2) * ... 1. */
  
 programa {
